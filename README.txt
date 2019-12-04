@@ -22,7 +22,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 # Summary
 
-Case for the Iris keyboard from keeb.io. Wanted the feel of a complete and robust product that you can put in your bag without fear of damaging the insides. Additionally I wanted it to print without supports and have the ability to modify the bottom after assembly.
+Case for the Iris keyboard Rev 3&4 from keeb.io. Wanted the feel of a complete and robust product that you can put in your bag without fear of damaging the insides. Additionally I wanted it to print without supports and have the ability to modify the bottom after assembly.
 
 For building you need to print:
 1x topLeft
