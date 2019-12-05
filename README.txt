@@ -24,6 +24,10 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 Case for the Iris keyboard Rev2 from keeb.io. Wanted the feel of a complete and robust product that you can put in your bag without fear of damaging the insides. Additionally I wanted it to print without supports and have the ability to modify the bottom after assembly.
 
+Specs:
+5.2 degree incline
+3.0 degree tent
+
 For building you need to print:
 1x topLeft
 1x topLeft mirrored
